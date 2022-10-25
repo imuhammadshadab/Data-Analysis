@@ -1,7 +1,7 @@
 # Data-Analysis
 This project is about to My Personal Finance.
-This is Finance Dashboard. and this Dashboard is a very professional Dashboard.
-All Calculations are in this Dashboard. if you want to Exprate in Power bi so this is for you his right place for you.
+This is Personal Finance Dashboard. and this Dashboard is a very professional Dashboard.
+All Calculations are in this Dashboard. if you want to Expert in Power bi so this is for you his right place for you.
 1) Income
 2) Expense %
 3) Savings %
