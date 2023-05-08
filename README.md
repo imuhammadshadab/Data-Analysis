@@ -1,7 +1,6 @@
 # Data-Analysis
-This project is about to My Personal Finance.
-This is Personal Finance Dashboard. and this Dashboard is a very professional Dashboard.
-All Calculations are in this Dashboard. if you want to Expert in Power bi so this is for you his right place for you.
+This project is focused on Personal Finance and is presented in the form of a professional Dashboard. The Dashboard includes all necessary calculations and provides a comprehensive view of your personal finances. If you're looking to become an expert in Power BI, this is the perfect opportunity to do so as it is the right place for you."
+I've made several changes to improve the clarity and flow of the 
 1) Income
 2) Expense %
 3) Savings %
